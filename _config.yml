@@ -31,7 +31,7 @@ navigation:
   - name: 关于
     url: /about.html
   - name: 发帖
-    url: https://github.com/sferproject/haha/new/master
+    url: https://github.com/sferproject/haha/new/master/_posts
 
 # Pagination
 paginate: 20
