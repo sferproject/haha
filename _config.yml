@@ -3,33 +3,35 @@
 #
 
 # Name of your site (displayed in the header)
-name: 网站名称
+name: 拜登
 
 # Short bio or description (displayed in the header)
-description: 一句话介绍
+description: 崇拜所有的小比登
 
 #
 # Flags below are optional
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+#avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  - name: 首页
+  - name: 白宫
     url: /
-  - name: 标签
+  - name: 众议院
     url: /tags.html
-  - name: 分类
+  - name: 参议院
     url: /categories.html
-  - name: RSS
+  - name: VOA
     url: /atom.xml
   - name: 关于
     url: /about.html
+  - name: 发帖
+    url: https://github.com/sferproject/haha/new/master
 
 # Pagination
 paginate: 20
@@ -38,33 +40,33 @@ paginate: 20
 footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
-  email: terminus2049@protonmail.com
+  email: terminus202110@163.com
   facebook:
   flickr:
-  github: TerminusBot/terminus-jekyll-template
+  github: sferproject/haha
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
-  telegram: terminus_9402
+  telegram: 
   pinterest:
   rss: atom.xml # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
-  twitter: 2049bbs
+  twitter: 
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
-footer-text: Powered by <a href="https://github.com/TerminusBot/terminus-jekyll-template">TerminusBot</a>
+footer-text: Powered by <a href="https://github.com/sferproject/haha">张斌的刁</a>
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://terminusbot.github.io/
+url: https://sferproject.github.io/haha
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-# baseurl: /terminus-jekyll-template
+# baseurl: /haha
 
 #
 # !! You don't need to change any of the configuration flags below !!
